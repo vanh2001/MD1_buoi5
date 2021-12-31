@@ -1,0 +1,30 @@
+.formTo{
+    background-color: rgba(255,253,168,0.68);
+    width: 35%;
+    height: 40%;
+    margin: 0px 35%;
+}
+h2{
+    background-color: rgba(76,255,195,0.68);
+    color: blue;
+    width: 98%;
+    margin: 5px;
+}
+form{
+    width: 95%;
+    margin: 2%;
+}
+input[type=text]{
+    margin: 0px 20px;
+    width: 200px ;
+}
+label{
+    color: blue;
+}
+.sex{
+    margin: 20px 0px 0px;
+}
+.buttonForm{
+    padding-left: 110px;
+}
+
