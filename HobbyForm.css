@@ -1,0 +1,43 @@
+div{
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Tahoma, sans-serif;
+
+}
+h2{
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding: 6px 85px;
+    margin: 4px 360px;
+}
+label{
+    color: blue;
+}
+.formTo{
+    border: 10px solid
+    rgb(191, 244, 245);
+}
+.formNho{
+    padding: 3px 94px;
+    margin: 8px 265px;
+}
+.ten{
+    padding: 5px 100px;
+    margin: 5px -12px;
+}
+.email{
+    padding: 5px 100px;
+    margin: 5px 20px;
+}
+.hobby{
+    padding: 5px 100px 5px 200px;
+    margin: 5px -99px;
+    width: 600px;
+}
+input[type=checkbox]{
+    text-align: right;
+}
+.buttonForm{
+    margin: 5px 170px;
+}
+
